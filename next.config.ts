@@ -2,6 +2,11 @@ import { NextConfig } from 'next'
 import { codeInspectorPlugin } from 'code-inspector-plugin'
 
 const nextConfig: NextConfig = {
+	output: 'export',
+	basePath: '/huiyu-blog',
+	images: {
+		unoptimized: true
+	},
 	devIndicators: false,
 	reactStrictMode: false,
 	reactCompiler: true,
