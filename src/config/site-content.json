@@ -1,0 +1,73 @@
+{
+	"meta": {
+		"title": "Huiyu🍟",
+		"description": "灰鱼 的个人博客",
+		"username": "Huiyu"
+	},
+	"theme": {
+		"colorBrand": "#de4331",
+		"colorPrimary": "#4E3F42",
+		"colorSecondary": "#7b888e",
+		"colorBrandSecondary": "#FCC841",
+		"colorBg": "#eeeeee",
+		"colorBorder": "#ffffff",
+		"colorCard": "#ffffff66",
+		"colorArticle": "#ffffffcc"
+	},
+	"backgroundColors": [
+		"#FCC841",
+		"#DFEFFC",
+		"#DEDE92",
+		"#DE4331",
+		"#FE9750",
+		"#FCC841"
+	],
+	"artImages": [
+		{
+			"id": "cat",
+			"url": "/images/art/cat.png"
+		},
+		{
+			"id": "a46372ff45bc5524",
+			"url": "/images/art/a46372ff45bc5524.jpg"
+		}
+	],
+	"currentArtImageId": "a46372ff45bc5524",
+	"backgroundImages": [
+		{
+			"id": "",
+			"url": ""
+		}
+	],
+	"currentBackgroundImageId": "",
+	"socialButtons": [
+		{
+			"id": "github",
+			"type": "github",
+			"value": "https://github.com/WANGLEOYU",
+			"label": "Github",
+			"order": 3
+		},
+		{
+			"id": "xiaohongshu",
+			"type": "xiaohongshu",
+			"value": "https://xhslink.com/m/8Dc5AgNtgzg",
+			"label": "小红书",
+			"order": 2
+		},
+		{
+			"id": "email",
+			"type": "email",
+			"value": "wangleoyu@163.com",
+			"label": "",
+			"order": 1
+		}
+	],
+	"clockShowSeconds": false,
+	"summaryInContent": false,
+	"isCachePem": false,
+	"hideEditButton": false,
+	"enableCategories": true,
+	"currentHatIndex": 3,
+	"hatFlipped": false
+}
